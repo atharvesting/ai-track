@@ -23,7 +23,9 @@ The Cosine Similarity:
 - Like a cosine function, the score range is from -1 to 1
     - 1 = Perfect similarity
     - 0 = Orthogonality (no similarity)
-    - (-1) = Perfect dissimilarity (polar opposites)
+    - (-1) = Perfect dissimilarity (polar opposite)
+- Cosine similarity uses a matrix-vector dot product, which has completely different shape rules.
+    - Given matrix M and vector q, M must be a n-d array whereas q must be a 1-d array.
     
 - Formula: cosim ≡ dot(v, w) / (||v|| * ||w||)
 

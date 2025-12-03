@@ -1,0 +1,16 @@
+StudentID,Name,Age,Gender,Major,GPA,EnrollmentYear,CreditsCompleted,Scholarship,AttendanceRate,FinalGrade,PassedCourse,StudyHoursPerWeek,AssignmentsSubmitted,ExamScore1,ExamScore2,ExamScore3,ProjectScore,QuizAvg,LabScore,GPASimilarity
+1,Alice Johnson,20,F,Computer Science,3.85,2023,45,Yes,95.5,A,Yes,25,12,92,88,95,90,94.2,97,0.99962375647188
+2,Bob Smith,21,M,Data Science,3.42,2023,42,No,88.2,B,Yes,20,11,85,78,82,80,85.0,88,0.9996384389542045
+3,Carol Lee,19,F,Mathematics,3.95,2024,30,Yes,98.0,A,Yes,28,9,96,94,98,95,97.5,99,0.9998914549729329
+4,David Kim,22,M,Physics,2.85,2022,60,No,75.5,B,Yes,15,10,72,68,75,70,74.8,76,0.9993545863460505
+5,Eva Chen,20,F,Computer Science,3.67,2023,48,Yes,92.3,A,No,22,11,89,85,87,92,88.7,90,0.9999441668555504
+6,Frank Wilson,21,M,Economics,3.12,2023,44,No,82.1,B,Yes,18,12,80,76,82,78,79.3,81,0.9996417247337243
+7,Grace Patel,19,F,Data Science,4.0,2024,32,Yes,99.8,A,Yes,30,10,100,98,99,98,99.2,100,1.0
+8,Harry Brown,23,M,Physics,2.45,2022,58,No,70.2,C,No,12,8,65,62,68,60,65.5,67,0.9994110480896639
+9,Ivy Nguyen,20,F,Mathematics,3.78,2023,46,Yes,94.7,A,Yes,26,12,91,89,93,88,91.0,94,0.9998788658641754
+10,Jack Davis,22,M,Computer Science,3.25,2022,52,No,85.4,B,Yes,19,11,82,80,84,82,82.8,85,0.999849845340345
+11,Kylie White,19,F,Economics,3.56,2024,28,Yes,91.2,A,Yes,24,9,88,86,90,85,87.4,92,0.9998704428670382
+12,Leo Garcia,21,M,Physics,2.98,2023,40,No,78.6,B,Yes,16,10,75,73,77,74,75.2,78,0.9998188294914436
+13,Mia Rodriguez,20,F,Data Science,3.89,2023,47,Yes,96.8,A,Yes,27,12,93,91,95,93,93.5,96,0.9998839971738229
+14,Noah Taylor,22,M,Mathematics,3.33,2022,55,No,84.3,B,Yes,21,11,84,82,85,83,83.9,86,0.9999353524235455
+15,Olivia Martinez,19,F,Computer Science,3.92,2024,34,Yes,97.5,A,Yes,29,10,97,95,98,96,97.0,98,0.9999524469808603
