@@ -1,2 +1,2 @@
 # trAIck (pronounced like trek)
-Rapid Track to Working AI/ML Proficiency
+Rapid Track to Working AI/ML Proficiency (In Progress)
