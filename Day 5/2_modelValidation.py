@@ -39,9 +39,6 @@ Validation Data:
 - This data is called validation data.
 (kaggle, Intro to Machine Learning)
 
-'''
-
-'''
 In order to test our model properly, we need to test it against a dataset that it has never seen before.
 The train_test_split function is used to split the dataset into training and validation set pairs.
 '''
